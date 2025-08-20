@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    font-size: 15px;
+}
+
+body {
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    background-color: white;
+}
+
+.image {
+    width: 300px;
+    border-radius: 10px;
+}
